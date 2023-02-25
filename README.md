@@ -17,6 +17,8 @@ My goal was to make this website as resposive and user friendly :handshake: as I
 
 ~ Contact Card  
 
+~ Google Maps Address View
+
 ~ OnClick Animation  
 
 ~ Online Images  
