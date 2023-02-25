@@ -7,7 +7,9 @@ My goal was to make this website as resposive and user friendly as I could.
 ## Highlights
 ~ HTML5  
 
-~ CSS  
+~ CSS 
+
+~ W3.CSS
 
 ~ Tailwind Css  
 
