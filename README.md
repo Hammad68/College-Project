@@ -5,8 +5,6 @@ This is my first ever website, which i built in my college days.
 My goal was to make this website as resposive and user friendly as I could.
 
 ## Highlights
-The highlights of this website are:
-
 ~ HTML5  
 
 ~ CSS  
