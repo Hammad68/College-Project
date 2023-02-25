@@ -6,12 +6,13 @@ My goal was to make this website as resposive and user friendly as I could.
 
 ## Highlights
 The highlights of this website are:
-HTML5
-CSS
-Tailwind Css
+
+~ HTML5
+~ CSS
+~ Tailwind Css
 Microsoft Forms
 Contact Card
-OnClick Annimation
+OnClick Animation
 Online Images
 Youtube Video
 Font Style
