@@ -2,7 +2,7 @@
 This is my first ever website, which i built in my college days.
 
 ## Goal
-My goal was to make this website as resposive and user friendly as I could.
+My goal was to make this website as resposive and user friendly :handshake: as I could :man_technologist:
 
 ## Highlights
 ~ HTML5  
@@ -25,5 +25,8 @@ My goal was to make this website as resposive and user friendly as I could.
 
 ~ Font Style  
 
-~ Website Theme
+~ Website Theme  
+
+~ Website Responsiveness
+
 
